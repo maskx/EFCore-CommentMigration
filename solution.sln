@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "maskx.EFCore.SqlServer.CommentMigration", "src\maskx.EFCore.SqlServer.CommentMigration\maskx.EFCore.SqlServer.CommentMigration.csproj", "{D917793A-2410-4FAD-B7DA-F45CB53184A3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "doc", "doc", "{B2FA6334-D240-4084-A891-50BB5E127A0C}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D917793A-2410-4FAD-B7DA-F45CB53184A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D917793A-2410-4FAD-B7DA-F45CB53184A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D917793A-2410-4FAD-B7DA-F45CB53184A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D917793A-2410-4FAD-B7DA-F45CB53184A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F4633F9-31C9-4081-81EE-0C89318223B8}
+	EndGlobalSection
+EndGlobal
